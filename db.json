@@ -496,7 +496,7 @@
     "price": 12
    }
   ],
-  "body&amp;haircare":[
+  "bodyandhaircare":[
    {
     "id": 1,
     "image1": "https:\/\/cdn11.bigcommerce.com\/s-9p889rxpkb\/images\/stencil\/800w\/products\/300\/1141\/lemonsage_body_butter_sku_1003_10000_01__74065.1668812297.jpg",
@@ -657,7 +657,7 @@
     "price": 25
    }
   ],
-  "sets&amp;kits":[
+  "setsandkits":[
    {
     "image1": "https:\/\/cdn11.bigcommerce.com\/s-9p889rxpkb\/images\/stencil\/800w\/products\/434\/1543\/Bundle_6__LS_Body_Butter_Grapefruit_Body_Butter_Blood_Orange_Body_Butter_Naked_Body_Butter_all_full_size_200_ML_1__10748.1659723177.jpg",
     "image2": "https:\/\/cdn11.bigcommerce.com\/s-9p889rxpkb\/images\/stencil\/800w\/products\/434\/1606\/Holiday_Image_Resize_Body_Butter_Collection_01__30620.1666282522.jpg",
@@ -1646,7 +1646,7 @@
    }
   ],
   "cart":[],
-  
+
   "users":[]
   
   
